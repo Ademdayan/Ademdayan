@@ -1,4 +1,4 @@
-![MasterHead](https://img-s1.onedio.com/id-55e0633af82cb05149e6d25b/rev-0/w-1200/h-692/f-jpg/s-bace260ee7e6c2bed2d3817a45f8629f93c94c2f.jpg)
+![MasterHead](https://www.moradam.com/wp-content/uploads/2020/09/Yaz%C4%B1l%C4%B1mc%C4%B1-Gif.gif)
 
 <h1 align="center">Hi 👋, I'm Adem Dayan</h1>
 <h3 align="center">A passionate Fullstack developer from Turkey</h3>
