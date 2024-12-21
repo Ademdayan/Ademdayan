@@ -1,6 +1,6 @@
 ![MasterHead](https://www.moradam.com/wp-content/uploads/2020/09/Yaz%C4%B1l%C4%B1mc%C4%B1-Gif.gif)
 
-<h1 align="center">Hi 👋, I'm Adem Dayan</h1>
+<h1 align="center">Hi 👋,🤖 I'm Adem Dayan🧑‍💻 </h1>
 <h3 align="center">A passionate Fullstack developer from Turkey</h3>
 
 - 🔭 I’m currently working on **SmartWater App**
