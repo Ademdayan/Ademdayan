@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋,🤖 I'm Adem Dayan🧑‍💻 </h1>
 <h3 align="center">A passionate Fullstack developer from Turkey</h3>
 
-- 🔭 I’m currently working on **SmartWater App**
-- 🔭 I’m currently working on **Hay-Tar App**
+- 🔭 I’m currently working on ** SmartWater App **
+- 🔭 I’m currently working on ** Hay-Tar App **
 
 - 📫 How to reach me **ademdayan36@gmail.com**
 
