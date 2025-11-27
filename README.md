@@ -5,6 +5,10 @@
 
 - 🔭 I’m currently working on ** SmartWater App **
 - 🔭 I’m currently working on ** Hay-Tar App **
+- 🔭 I’m currently working on ** AVAS AI App **
+- 🔭 I’m currently working on ** Derman App **
+- 🔭 I’m currently working on ** MathGame App **
+- 🔭 I’m currently working on ** MindCep App **
 
 - 📫 How to reach me **ademdayan36@gmail.com**
 
