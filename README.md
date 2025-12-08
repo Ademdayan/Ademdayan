@@ -25,4 +25,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ademdayan&show_icons=true&locale=en" alt="ademdayan" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=ademdayan" alt="ademdayan" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=ademdayan" alt="ademdayan" /></p>
+
